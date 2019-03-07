@@ -18,13 +18,11 @@ body {
   padding: 6% 0;
 }
 
-/*Menu Bar*/
-
 nav {
 	background-color: #75e2e6;
 	border-bottom: #048eaa 3px solid;
 	display: inline-block;
-	padding: 0 1%; 
+	padding: 0 1%;
 	width: 100%;
 }
 
@@ -36,8 +34,9 @@ nav {
 }
 
 .menuText {
-	text-align: right;
 	padding: 1.5%;
+	text-align: right;
+
 }
 
 ul {
@@ -48,10 +47,8 @@ ul {
 	color: #000;
 	display: inline-block;
 	list-style-type: none;
-	padding: 1%; 
+	padding: 1%;
 }
-
-
 
 a:link {
 	color: #000;
@@ -63,18 +60,21 @@ a:hover {
 	color: #fff;
 }
 
-/*Header*/
-
 header {
 	color: #fff;
 	margin: auto;
+	max-width: 480px;
 	width: 60%;
-  max-width: 480px;
 }
 
-.head h1 {
+.headerTitle h1 {
+	font-weight: 400;
 	margin: 0;
 	text-align: center;
+}
+
+.someDogsText {
+	font-weight: 800;
 }
 
 .image-container {
@@ -98,9 +98,9 @@ form {
 	box-sizing: border-box;
 }
 
-.name {
+.nameLabel {
 	color: #fff;
-	margin: 2%;
+	margin: 2% 0;
 	text-align: left;
 }
 
@@ -118,15 +118,14 @@ form {
 	width: 100%;
 }
 
-/*Main Content*/
 
-.main {
+.mainBody {
 	background-color: #fff;
 	margin: 0%;
-	padding: 4% 0;
+	padding: 3% 0;
 }
 
-.text {
+.textColumn {
   display: inline-block;
   padding: 0 3%;
   vertical-align: top;
@@ -142,13 +141,11 @@ h2 {
 	text-align: center;
 }
 
-.dogs {
+.dogImages {
 	border-radius: 50%;
 	border: 5px solid #75e2e6;
 	height: 200px;
-	margin: 0 15%;
-	padding: 0;
-	width: 200px;
+	margin: 0 25%;
 }
 
 p {
@@ -162,8 +159,6 @@ button {
 	padding: 4%;
 	width: 100%;
 }
-
-/*Footer*/
 
 footer {
 	background-color: #048eaa;
@@ -181,8 +176,6 @@ footer li {
 	display: inline-block;
 	padding: 2%;
 }
-
-/*Media Queries*/
 
 @media only screen and (max-width: 970px) {
 	.copy-text {
@@ -208,4 +201,3 @@ footer li {
 		width: 100%;
 	}
 }
-
