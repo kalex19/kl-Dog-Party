@@ -11,6 +11,12 @@ Being able to take an idea or a mockup and create a replica, is an elementary sk
 * HTML 
 * CSS
 
+## Installation & Setup
+
+Clone this repo
+
+In the project directory, please open on browser.
+
 ## Learning Goals
 
 * practice accurately building a comp
@@ -37,3 +43,6 @@ The three body articles are not aligned with the images and headings.
 ### Contributors
 
 Katherine Lewis @kalex19
+
+### License
+Turing School of Software (for providing the project specifications).
