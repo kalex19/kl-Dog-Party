@@ -13,9 +13,9 @@ Being able to take an idea or a mockup and create a replica, is an elementary sk
 
 ## Installation & Setup
 
-Clone this repo
+Clone this repo.
 
-In the project directory, please open on browser.
+In the project directory, please open in browser.
 
 ## Learning Goals
 
@@ -34,7 +34,7 @@ In the project directory, please open on browser.
 
 <img src="images/Dog Party Comp 2:2.png" width="400">
 
-## Issues
+### Issues
 
 The nav bar image is larger than the comp.
 The header input fields are wider than the comp.
