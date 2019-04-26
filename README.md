@@ -8,15 +8,14 @@ Being able to take an idea or a mockup and create a replica, is an elementary sk
 
 ## Technologies Used
 
--HTML
--CSS
+HTML, CSS
 
 ## Learning Goals
 
--practice accurately building a comp
--write well structured, semantic HTML
--craft clean, DRY CSS
--try out working with Javascript to interact with the DOM
+*practice accurately building a comp
+*write well structured, semantic HTML
+*craft clean, DRY CSS
+*try out working with Javascript to interact with the DOM
 
 ## Original Webpage
 
