@@ -12,10 +12,10 @@ HTML, CSS
 
 ## Learning Goals
 
-*practice accurately building a comp
-*write well structured, semantic HTML
-*craft clean, DRY CSS
-*try out working with Javascript to interact with the DOM
+* practice accurately building a comp
+* write well structured, semantic HTML
+* craft clean, DRY CSS
+* try out working with Javascript to interact with the DOM
 
 ## Original Webpage
 
