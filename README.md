@@ -30,6 +30,8 @@ Being able to take an idea or a mockup and create a replica, is an elementary sk
 
 ## Issues
 
+The nav bar image is larger than the comp.
+The header input fields are wider than the comp.
 The three body articles are not aligned with the images and headings.
 
 ### Contributors
