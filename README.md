@@ -8,7 +8,8 @@ Being able to take an idea or a mockup and create a replica, is an elementary sk
 
 ## Technologies Used
 
-HTML, CSS
+* HTML 
+* CSS
 
 ## Learning Goals
 
