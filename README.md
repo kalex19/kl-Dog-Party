@@ -36,9 +36,9 @@ In the project directory, please open in browser.
 
 ### Issues
 
-The nav bar image is larger than the comp.
-The header input fields are wider than the comp.
-The three body articles are not aligned with the images and headings.
+* The nav bar image is larger than the comp.
+* The header input fields are wider than the comp.
+* The three body articles are not aligned with the images and headings.
 
 ### Contributors
 
